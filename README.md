@@ -6,7 +6,7 @@ My organization is enhancing its system security, and my role is to ensure its s
 ## Project walk-through:
 
 ### Retrieve Failed Login Attempts After Hours
-We experienced a potential security incident after business hours (post 18:00). All failed login attempts during this period need to be examined.
+We experienced a potential security incident after business hours (after 18:00). All failed login attempts during this period need to be examined.
 
 The following SQL query demonstrates how to filter for failed login attempts that occurred after business hours.
 <p align="center">
